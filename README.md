@@ -1,2 +1,1 @@
-# cs24_lab04_public
-Binary Search Tree Implementation
+# lab04EC_zacharyfriedland
